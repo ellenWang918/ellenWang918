@@ -6,8 +6,6 @@
 - 📫 Please reach me by ellenwang918@gmail.com
 - 😉 Nice to meet you!
 
-## Skills
-
 <!---
 ellenWang918/ellenWang918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
