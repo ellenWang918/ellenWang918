@@ -31,13 +31,11 @@ Other skills:
    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
-
-**My Languages:**
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellenWang918)](https://github.com/ellenWang918/github-readme-stats)
   
 **My Stats:**
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellenWang918)](https://github.com/ellenWang918/github-readme-stats)
+   
   [![ellenWang918's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellenWang918&ring_color=ff69b4&)](https://github.com/ellenWang918/github-readme-stats)
   
 <!---
